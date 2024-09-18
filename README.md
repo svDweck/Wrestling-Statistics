@@ -1,2 +1,2 @@
 # Wrestling-Statistics
-Calculates what percentage a wrestler has to win
+Calculates what percentage a wrestler has to win by calculating the average using wins and losses. The class Wrestler is used to create Wrestler objects which store the wrestler's name, amount of wins, and amount of losses. It has the method winPercentage which calculates the wrestlers winning average. In the main method, a HashMap is used to store the wrestlers and their percentages.
